@@ -1,10 +1,24 @@
-# Hi there, I'm Muhammad Awais Naveed 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student;Frontend+Web+Developer;JavaScript+%7C+React+Learner;C%2B%2B+%7C+Python+%7C+SQL" />
+</p>
 
-## 💻 Software Engineering Student | Frontend Web Developer
+<div align="center">
 
-🎓 Software Engineering Student at UET Lahore
+# Hi 👋, I'm Muhammad Awais Naveed
 
-💡 Passionate about building modern web applications and solving real-world problems.
+### 💻 Software Engineering Student | Frontend Web Developer
+
+<p>
+I'm passionate about building modern, responsive web applications and continuously improving my programming skills.
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Software Engineering Student at **UET Lahore**
 
 🌱 Currently Learning
 - JavaScript (ES6+)
@@ -12,80 +26,97 @@
 - Git & GitHub
 - Data Structures & Algorithms
 
-📚 Basic Knowledge
+💡 Basic Knowledge
 - C++
 - Python
 - SQL
 
-🚀 Goal
-Become a Full-Stack MERN Developer and Software Engineer.
+🎯 Goal
+- Become a MERN Stack Developer
+- Build Professional Projects
+- Get a Software Engineering Internship
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
+### Frontend
 
-### 💻 Programming Languages
-- C++
-- Python
-- JavaScript
+![HTML5](https://skillicons.dev/icons?i=html,css,js,react)
 
-### 🗄️ Database
-- SQL
-- MySQL
+### Programming Languages
 
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- Netlify
-- Figma (Basic)
+![Languages](https://skillicons.dev/icons?i=cpp,python,javascript)
+
+### Database
+
+![Database](https://skillicons.dev/icons?i=mysql)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🏥 Hospital Management System
-- 💰 Personal Expense Tracker
-- 🛒 Amazon Clone
-- 💊 Pharmacy Management System
-- 🏦 Bank Management System
-- 🎓 Code Universe
+🏥 Hospital Management System
+
+💰 Personal Expense Tracker
+
+🛒 Amazon Clone
+
+💊 Pharmacy Management System
+
+🏦 Bank Management System
+
+🌐 Code Universe
 
 ---
 
-## 🔥 GitHub Streak
+# 📚 Currently Learning
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=awaisn872-cmyk&theme=tokyonight"/>
-</p>
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
-## 🎯 2026 Goals
+---
+
+# 🎯 2026 Goals
 
 ✅ Master JavaScript
 
-✅ Learn React.js
+✅ Learn React
 
-✅ Learn Node.js & Express.js
-
-✅ Learn MongoDB
+✅ Learn Backend Development
 
 ✅ Build 20+ Professional Projects
 
-✅ Get a Software Engineering Internship
+✅ Contribute to Open Source
+
+✅ Get Internship
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
 📧 Email: awaisn872@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-🌐 Portfolio: Coming Soon
+🌍 Portfolio: Coming Soon
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awaisn872-cmyk&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>

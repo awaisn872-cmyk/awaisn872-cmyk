@@ -58,15 +58,11 @@ Become a Full-Stack MERN Developer and Software Engineer.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaisn872-cmyk&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisn872-cmyk&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=awaisn872-cmyk&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awaisn872-cmyk&theme=tokyonight"/>
+</p>
 
 ## 🎯 2026 Goals
 

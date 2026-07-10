@@ -46,7 +46,7 @@ I'm passionate about building modern, responsive web applications and continuous
 
 ### Programming Languages
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,javascript)
+![Languages](https://skillicons.dev/icons?i=cpp,python)
 
 ### Database
 
@@ -104,6 +104,8 @@ I'm passionate about building modern, responsive web applications and continuous
 📧 Email: awaisn872@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+🐙 GitHub: https://github.com/awaisn872-cmyk
 
 🌍 Portfolio: Coming Soon
 

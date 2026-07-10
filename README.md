@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Awais Naveed 👋
 
-<!--
-**awaisn872-cmyk/awaisn872-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineering Student | Frontend Web Developer
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student at UET Lahore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about building modern web applications and solving real-world problems.
+
+🌱 Currently Learning
+- JavaScript (ES6+)
+- React.js
+- Git & GitHub
+- Data Structures & Algorithms
+
+📚 Basic Knowledge
+- C++
+- Python
+- SQL
+
+🚀 Goal
+Become a Full-Stack MERN Developer and Software Engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### 💻 Programming Languages
+- C++
+- Python
+- JavaScript
+
+### 🗄️ Database
+- SQL
+- MySQL
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+- Netlify
+- Figma (Basic)
+
+---
+
+## 🚀 Featured Projects
+
+- 🏥 Hospital Management System
+- 💰 Personal Expense Tracker
+- 🛒 Amazon Clone
+- 💊 Pharmacy Management System
+- 🏦 Bank Management System
+- 🎓 Code Universe
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaisn872-cmyk&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaisn872-cmyk&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=awaisn872-cmyk&theme=tokyonight)
+
+---
+
+## 🎯 2026 Goals
+
+✅ Master JavaScript
+
+✅ Learn React.js
+
+✅ Learn Node.js & Express.js
+
+✅ Learn MongoDB
+
+✅ Build 20+ Professional Projects
+
+✅ Get a Software Engineering Internship
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: awaisn872@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+🌐 Portfolio: Coming Soon
+
+⭐ Thanks for visiting my profile!

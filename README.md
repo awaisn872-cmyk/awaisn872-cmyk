@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student;Frontend+Web+Developer;JavaScript+%7C+React+Learner;C%2B%2B+%7C+Python+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student;Full+Stack+Web+Developer;MERN+Stack+Developer+in+Progress;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;C%2B%2B+%7C+Python+%7C+SQL" />
 </p>
 
 <div align="center">
 
 # Hi 👋, I'm Muhammad Awais Naveed
 
-### 💻 Software Engineering Student | Frontend Web Developer
+### 💻 Software Engineering Student | Full Stack Web Developer
 
 <p>
-I'm passionate about building modern, responsive web applications and continuously improving my programming skills.
+I'm a Software Engineering student passionate about building modern, responsive,
+and scalable web applications. I enjoy learning new technologies, solving
+programming problems, and turning ideas into real-world projects.
 </p>
 
 </div>
@@ -20,94 +22,150 @@ I'm passionate about building modern, responsive web applications and continuous
 
 🎓 Software Engineering Student at **UET Lahore**
 
+💻 Currently focused on **Full Stack Web Development**
+
 🌱 Currently Learning
-- JavaScript (ES6+)
-- React.js
-- Git & GitHub
-- Data Structures & Algorithms
 
-💡 Basic Knowledge
-- C++
-- Python
-- SQL
+* JavaScript (ES6+)
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Data Structures & Algorithms
+* Git & GitHub
 
-🎯 Goal
-- Become a MERN Stack Developer
-- Build Professional Projects
-- Get a Software Engineering Internship
+💡 Programming Knowledge
+
+* C++
+* Python
+* JavaScript
+* SQL
+
+🎨 Frontend Technologies
+
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* JavaScript
+* React.js
+
+🎯 Career Goal
+
+* Become a professional **MERN Stack Developer**
+* Build production-ready web applications
+* Improve problem-solving & DSA skills
+* Contribute to real-world software projects
+* Get a Software Engineering Internship
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
-![HTML5](https://skillicons.dev/icons?i=html,css,js,react)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind)
 
-### Programming Languages
+### ⚙️ Backend
 
-![Languages](https://skillicons.dev/icons?i=cpp,python)
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-### Database
+### 💻 Programming Languages
 
-![Database](https://skillicons.dev/icons?i=mysql)
+![Languages](https://skillicons.dev/icons?i=cpp,python,js)
 
-### Tools
+### 🗄️ Databases
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### 🔧 Tools & Technologies
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify)
 
 ---
 
 # 🚀 Featured Projects
 
-🏥 Hospital Management System
+### 🏥 Hospital Management System
 
-💰 Personal Expense Tracker
+A management system designed to handle hospital-related operations and records.
 
-🛒 Amazon Clone
+### 💰 Personal Expense Tracker
 
-💊 Pharmacy Management System
+A web application for tracking personal expenses and managing financial records.
 
-🏦 Bank Management System
+### 🛒 Amazon Clone
 
-🌐 Code Universe
+An e-commerce frontend project inspired by Amazon's interface and shopping experience.
+
+### 💊 Pharmacy Management System
+
+A management application for handling pharmacy products, records, and operations.
+
+### 🏦 Bank Management System
+
+A programming project focused on managing banking operations and customer records.
+
+### 🌐 Code Universe
+
+A web platform focused on programming resources, templates, and learning content.
+
+### 🚀 Tikzoid
+
+A full-stack web application built with modern frontend and backend technologies, including authentication, APIs, and database integration.
 
 ---
 
 # 📚 Currently Learning
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🧠 Data Structures & Algorithms
+* 🔐 Backend Authentication
+* 🔌 REST APIs
+* ☁️ Deployment & Hosting
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master JavaScript
+* ✅ Master JavaScript
+* ✅ Build advanced React applications
+* 🔄 Master MERN Stack Development
+* 🔄 Improve DSA & Problem Solving
+* 🚀 Build 20+ Professional Projects
+* 🌍 Contribute to Open Source
+* 💼 Get a Software Engineering Internship
+* ☁️ Learn Production Deployment & Cloud Technologies
 
-✅ Learn React
+---
 
-✅ Learn Backend Development
+# 📊 GitHub Stats
 
-✅ Build 20+ Professional Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awaisn872-cmyk&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-✅ Contribute to Open Source
-
-✅ Get Internship
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisn872-cmyk&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: awaisn872@gmail.com
+📧 **Email:** [awaisn872@gmail.com](mailto:awaisn872@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+💼 **LinkedIn:**
+https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370
 
-🐙 GitHub: https://github.com/awaisn872-cmyk
+🐙 **GitHub:**
+https://github.com/awaisn872-cmyk
 
-🌍 Portfolio: Coming Soon
+🌍 **Portfolio:**
+https://www.awaisnaveed.com
 
 ---
 

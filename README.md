@@ -1,151 +1,189 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student;Full+Stack+Web+Developer;MERN+Stack+Developer+in+Progress;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;C%2B%2B+%7C+Python+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6C4CF1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student+at+UET+Lahore;MERN+Stack+Developer;Full+Stack+Web+Development+Enthusiast;Building+Ideas+Into+Real+World+Projects" />
 </p>
 
 <div align="center">
 
-# Hi 👋, I'm Muhammad Awais Naveed
+# 👋 Hi, I'm Muhammad Awais Naveed
 
-### 💻 Software Engineering Student | Full Stack Web Developer
+### Software Engineering Student | MERN Stack Developer | Full Stack Developer
+
+Building modern web applications, solving problems, and turning ideas into practical software solutions.
 
 <p>
-I'm a Software Engineering student passionate about building modern, responsive,
-and scalable web applications. I enjoy learning new technologies, solving
-programming problems, and turning ideas into real-world projects.
+  <img src="https://komarev.com/ghpvc/?username=awaisn872-cmyk&label=Profile%20Views&color=6C4CF1&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Software Engineering Student at **UET Lahore**
+🎓 Software Engineering Student at **University of Engineering and Technology (UET), Lahore – New Campus**
 
-💻 Currently focused on **Full Stack Web Development**
+💻 Passionate about **Full Stack Web Development and Software Engineering**
 
-🌱 Currently Learning
+🚀 Focused on building scalable, responsive, and user-friendly web applications using the MERN Stack.
+
+🌱 Always learning new technologies and improving my development skills.
+
+💡 Interested in Backend Development, APIs, Database Management, and Software Architecture.
+
+🎯 My goal is to become a professional Full Stack Software Engineer and contribute to real-world software products.
+
+### Currently Working With
 
 * JavaScript (ES6+)
 * React.js
-* Node.js
-* Express.js
+* Node.js & Express.js
 * MongoDB
+* REST APIs
+* Authentication & Authorization
 * Data Structures & Algorithms
 * Git & GitHub
 
-💡 Programming Knowledge
-
-* C++
-* Python
-* JavaScript
-* SQL
-
-🎨 Frontend Technologies
-
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-* JavaScript
-* React.js
-
-🎯 Career Goal
-
-* Become a professional **MERN Stack Developer**
-* Build production-ready web applications
-* Improve problem-solving & DSA skills
-* Contribute to real-world software projects
-* Get a Software Engineering Internship
-
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### 💻 Programming Languages
-
-![Languages](https://skillicons.dev/icons?i=cpp,python,js)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Databases
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
 
 ### 🔧 Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+### 1. 🚀 Tikzoid
 
-A management system designed to handle hospital-related operations and records.
+A full-stack Social Media Marketing platform featuring user authentication, payment gateway integration, third-party API integration, order management, and user dashboards.
 
-### 💰 Personal Expense Tracker
+**Tech Stack:** MERN Stack
 
-A web application for tracking personal expenses and managing financial records.
-
-### 🛒 Amazon Clone
-
-An e-commerce frontend project inspired by Amazon's interface and shopping experience.
-
-### 💊 Pharmacy Management System
-
-A management application for handling pharmacy products, records, and operations.
-
-### 🏦 Bank Management System
-
-A programming project focused on managing banking operations and customer records.
-
-### 🌐 Code Universe
-
-A web platform focused on programming resources, templates, and learning content.
-
-### 🚀 Tikzoid
-
-A full-stack web application built with modern frontend and backend technologies, including authentication, APIs, and database integration.
+🔗 [Live Demo](https://tikzoid.com/)
 
 ---
 
-# 📚 Currently Learning
+### 2. 🏥 Hospital Management System
 
-* ⚛️ React.js
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
-* 🧠 Data Structures & Algorithms
-* 🔐 Backend Authentication
-* 🔌 REST APIs
-* ☁️ Deployment & Hosting
+A full-stack hospital management application designed to manage patients, doctors, appointments, medical records, and hospital operations.
+
+**Tech Stack:** MERN Stack
+
+🔗 [Live Demo](https://hospital-management-system-drab-six.vercel.app/)
 
 ---
 
-# 🎯 2026 Goals
+### 3. 🌐 VibeVerse
 
-* ✅ Master JavaScript
-* ✅ Build advanced React applications
+A modern full-stack digital platform featuring a responsive interface, interactive components, and an engaging user experience.
+
+**Tech Stack:** MERN Stack
+
+🔗 [Live Demo](https://vibe-verse-eta.vercel.app/)
+
+---
+
+### 4. 🍗 Marhaba Chicken
+
+A professional business website for Marhaba Chicken, Gojra, showcasing business information, products, and convenient WhatsApp ordering functionality.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 [Live Demo](https://marhaba-chicken-gojra-v1.vercel.app/)
+
+---
+
+### 5. 🐄 Janjua Dairy Farm
+
+A full-stack website for Janjua Dairy Farm, presenting farm information, products, and business details through a modern and responsive interface.
+
+**Tech Stack:** MERN Stack
+
+🔗 [Live Demo](https://janjua-dairy-farm.vercel.app/)
+
+---
+
+### 6. 💻 Code Universe
+
+A programming and technology-focused website designed with a modern interface and responsive layout to provide an engaging digital experience.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 [Live Demo](https://code-universe-two.vercel.app/)
+
+---
+
+### 7. 📦 DoorDash – Courier Management System
+
+A full-stack courier management system designed to streamline parcel booking, shipment tracking, delivery assignments, and delivery status management. Includes dedicated dashboards for administrators, customers, and delivery agents.
+
+**Tech Stack:** MERN Stack
+
+🚧 **Status:** Under Construction
+
+🔗 [Live Demo](https://door-six-pied.vercel.app/)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced JavaScript and React.js
+* Node.js and Express.js
+* MongoDB and Database Design
+* Backend Authentication & Authorization
+* RESTful API Development
+* Data Structures & Algorithms
+* Software Architecture and Design
+* Docker, Linux, and Cloud Technologies
+
+---
+
+## 🎯 My 2026 Goals
+
+* ✅ Strengthen JavaScript fundamentals
 * 🔄 Master MERN Stack Development
-* 🔄 Improve DSA & Problem Solving
-* 🚀 Build 20+ Professional Projects
-* 🌍 Contribute to Open Source
-* 💼 Get a Software Engineering Internship
-* ☁️ Learn Production Deployment & Cloud Technologies
+* 🔄 Build production-ready full-stack applications
+* 🔄 Improve Data Structures & Algorithms
+* 🚀 Build and deploy 20+ professional projects
+* ☁️ Explore Cloud Computing and DevOps
+* 🌍 Contribute to Open Source Projects
+* 💼 Gain professional Software Engineering experience
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaisn872-cmyk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=awaisn872-cmyk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisn872-cmyk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -154,29 +192,37 @@ A full-stack web application built with modern frontend and backend technologies
 
 ---
 
-# 📫 Connect With Me
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:awaisn872@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/awaisn872-cmyk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.awaisnaveed.com">
+    <img src="https://img.shields.io/badge/Portfolio-6C4CF1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 📧 **Email:** [awaisn872@gmail.com](mailto:awaisn872@gmail.com)
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370
+💼 **LinkedIn:** [Muhammad Awais Naveed](https://www.linkedin.com/in/muhammad-awais-naveed-4ba946370)
 
-🐙 **GitHub:**
-https://github.com/awaisn872-cmyk
+🐙 **GitHub:** [awaisn872-cmyk](https://github.com/awaisn872-cmyk)
 
-🌍 **Portfolio:**
-https://www.awaisnaveed.com
+🌍 **Portfolio:** [awaisnaveed.com](https://www.awaisnaveed.com)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Turning Ideas Into Reality Through Code."
 
-If you like my projects, don't forget to ⭐ them.
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awaisn872-cmyk&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>

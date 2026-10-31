@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6C4CF1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student+at+UET+Lahore;MERN+Stack+Developer;Full+Stack+Web+Development+Enthusiast;Building+Ideas+Into+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6C4CF1&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Awais+Naveed;Software+Engineering+Student+at+UET+Lahore;MERN+Stack+Developer;Founder+of+Code+Stack+Vibes;Building+Ideas+Into+Real+World+Projects" />
 </p>
 
 <div align="center">
@@ -26,11 +26,13 @@ Building modern web applications, solving problems, and turning ideas into pract
 
 🚀 Focused on building scalable, responsive, and user-friendly web applications using the MERN Stack.
 
+🏢 Founder of **Code Stack Vibes**, a software development initiative focused on delivering modern digital solutions.
+
 🌱 Always learning new technologies and improving my development skills.
 
 💡 Interested in Backend Development, APIs, Database Management, and Software Architecture.
 
-🎯 My goal is to become a professional Full Stack Software Engineer and contribute to real-world software products.
+🎯 My goal is to become a professional Full Stack Software Engineer and build impactful software products.
 
 ### Currently Working With
 
@@ -42,6 +44,48 @@ Building modern web applications, solving problems, and turning ideas into pract
 * Authentication & Authorization
 * Data Structures & Algorithms
 * Git & GitHub
+
+---
+
+## 🏢 Code Stack Vibes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Stack%20Vibes-Software%20Development-6C4CF1?style=for-the-badge" />
+</p>
+
+**Code Stack Vibes** is a software development initiative that I started to turn ideas into practical digital products and help businesses establish their online presence.
+
+As the founder and developer, I am working on building the brand, developing its website, managing projects, and delivering modern software solutions.
+
+### 💼 Our Services
+
+* 🌐 Website Design & Development
+* 📱 Web Application Development
+* ⚙️ Custom Software Development
+* 🛒 E-commerce Store Development
+* 🎓 College & University LMS Solutions
+* 👨‍💻 Personal Portfolio Websites
+* 📈 Search Engine Optimization (SEO)
+
+### 🚀 Current Setup
+
+* Building the official Code Stack Vibes website.
+* Developing a professional brand identity and online presence.
+* Organizing services and project portfolios.
+* Working on client-focused web and software solutions.
+* Establishing social media and business communication channels.
+
+### 🔗 Code Stack Vibes Links
+
+* 🌍 **Website:** [code-stack-vibes.vercel.app](https://code-stack-vibes.vercel.app/)
+* 💻 **GitHub:** [Code Stack Vibes Repository](https://github.com/awaisn872-cmyk/Code-Stack-Vibes)
+* 📸 **Instagram:** [@codestackvibes](https://www.instagram.com/codestackvibes/)
+* 📧 **Business Email:** [codestackvibes@gmail.com](mailto:codestackvibes@gmail.com)
+* 📱 **WhatsApp:** [+92 309 1977758](https://wa.me/923091977758)
+
+### 💡 Brand Tagline
+
+**Ideas Deserve Exceptional Code.**
 
 ---
 
@@ -173,6 +217,7 @@ A full-stack courier management system designed to streamline parcel booking, sh
 * 🔄 Build production-ready full-stack applications
 * 🔄 Improve Data Structures & Algorithms
 * 🚀 Build and deploy 20+ professional projects
+* 🏢 Grow Code Stack Vibes into a professional software development brand
 * ☁️ Explore Cloud Computing and DevOps
 * 🌍 Contribute to Open Source Projects
 * 💼 Gain professional Software Engineering experience
